@@ -10,7 +10,9 @@ Automated batched upload video into youtube, with error handling and logging.
 
 ### Refresh Token 
 1. https://www.youtube.com/watch?v=hfWe1gPCnzc
-2. Oauth2 , Youtube & Youtube Upload
+2. https://developers.google.com/oauthplayground
+3. https://console.developers.google.com/iam-admin/projects
+4. Oauth2 , Youtube & Youtube Upload
 
 ### Video Format
 - Recommanded mp4 / flv 
